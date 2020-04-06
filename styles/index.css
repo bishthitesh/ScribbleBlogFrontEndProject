@@ -13,7 +13,7 @@
     top : 180px  ;
 }
 body{
-    background: url('./../images/background.jpg');
+    background: url('./../background.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
